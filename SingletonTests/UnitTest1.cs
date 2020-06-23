@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using NUnit.Framework;
 using SimpleSingleton;
 
@@ -21,9 +22,32 @@ namespace SingletonTests
         {
             var rf = new SingletonRecordFinder();
             var names = new[] {"Seoul", "Mexico City"};
-            int tp = rf.TotalPopulation(names);
-            
+            var tp = rf.TotalPopulation(names);
+
             Assert.That(tp, Is.EqualTo(17_500_000 + 17_400_000));
+        }
+
+        [Test]
+        public void DependentTotalPopulationTest()
+        {
+            var db = new DummyDatabase();
+            var rf = new ConfigurableRecordFinder(db);
+            Assert.That(rf.TotalPopulation(
+                new[] { "alpha", "gamma"}), 
+                        Is.EqualTo(4));
+        }
+    }
+
+    public class DummyDatabase : IDatabase
+    {
+        public int GetPopulation(string city)
+        {
+            return new Dictionary<string, int>
+            {
+                ["alpha"] = 1,
+                ["beta"] = 2,
+                ["gamma"] = 3
+            }[city];
         }
     }
 }

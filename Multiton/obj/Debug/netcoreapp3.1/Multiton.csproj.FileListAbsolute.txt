@@ -1,0 +1,13 @@
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Singleton\Multiton\bin\Debug\netcoreapp3.1\Multiton.exe
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Singleton\Multiton\bin\Debug\netcoreapp3.1\Multiton.deps.json
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Singleton\Multiton\bin\Debug\netcoreapp3.1\Multiton.runtimeconfig.json
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Singleton\Multiton\bin\Debug\netcoreapp3.1\Multiton.runtimeconfig.dev.json
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Singleton\Multiton\bin\Debug\netcoreapp3.1\Multiton.dll
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Singleton\Multiton\bin\Debug\netcoreapp3.1\Multiton.pdb
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Singleton\Multiton\obj\Debug\netcoreapp3.1\Multiton.csprojAssemblyReference.cache
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Singleton\Multiton\obj\Debug\netcoreapp3.1\Multiton.AssemblyInfoInputs.cache
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Singleton\Multiton\obj\Debug\netcoreapp3.1\Multiton.AssemblyInfo.cs
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Singleton\Multiton\obj\Debug\netcoreapp3.1\Multiton.csproj.CoreCompileInputs.cache
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Singleton\Multiton\obj\Debug\netcoreapp3.1\Multiton.dll
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Singleton\Multiton\obj\Debug\netcoreapp3.1\Multiton.pdb
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Singleton\Multiton\obj\Debug\netcoreapp3.1\Multiton.genruntimeconfig.cache

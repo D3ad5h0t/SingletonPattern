@@ -3,6 +3,7 @@
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::8B403D6C-7878-444C-A5A6-BC74FAFB394E::.NETCoreApp,Version=v3.1::SingletonTests.UnitTest1.IsSingletonTest&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::8B403D6C-7878-444C-A5A6-BC74FAFB394E::.NETCoreApp,Version=v3.1::SingletonTests.UnitTest1.SingletonTotalPopulationTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::8B403D6C-7878-444C-A5A6-BC74FAFB394E::.NETCoreApp,Version=v3.1::SingletonTests.UnitTest1.DependentTotalPopulationTest&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a899532f_002D7ee3_002D496d_002Db05a_002Df2679e47e574/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="IsSingletonTest #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
