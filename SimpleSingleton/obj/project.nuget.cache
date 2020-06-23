@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2dZzl3BHWyZuBdLod0hNgIInHa0CHGIzPDWU2qE4IwVsfiYtcehY/wxSIWPqjM4G8MnnUUog4CPEcugORBP/fQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\glushchenko\\Dropbox\\dotNet\\Patterns\\Singleton\\SimpleSingleton\\SimpleSingleton.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\glushchenko\\.nuget\\packages\\morelinq\\3.3.2\\morelinq.3.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}

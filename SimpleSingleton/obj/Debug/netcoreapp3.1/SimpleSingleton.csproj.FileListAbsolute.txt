@@ -1,0 +1,15 @@
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Singleton\SimpleSingleton\bin\Debug\netcoreapp3.1\SimpleSingleton.exe
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Singleton\SimpleSingleton\obj\Debug\netcoreapp3.1\SimpleSingleton.AssemblyInfoInputs.cache
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Singleton\SimpleSingleton\obj\Debug\netcoreapp3.1\SimpleSingleton.AssemblyInfo.cs
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Singleton\SimpleSingleton\obj\Debug\netcoreapp3.1\SimpleSingleton.csproj.CoreCompileInputs.cache
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Singleton\SimpleSingleton\bin\Debug\netcoreapp3.1\SimpleSingleton.deps.json
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Singleton\SimpleSingleton\bin\Debug\netcoreapp3.1\SimpleSingleton.runtimeconfig.json
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Singleton\SimpleSingleton\bin\Debug\netcoreapp3.1\SimpleSingleton.runtimeconfig.dev.json
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Singleton\SimpleSingleton\bin\Debug\netcoreapp3.1\SimpleSingleton.dll
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Singleton\SimpleSingleton\bin\Debug\netcoreapp3.1\SimpleSingleton.pdb
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Singleton\SimpleSingleton\bin\Debug\netcoreapp3.1\MoreLinq.dll
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Singleton\SimpleSingleton\obj\Debug\netcoreapp3.1\SimpleSingleton.csprojAssemblyReference.cache
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Singleton\SimpleSingleton\obj\Debug\netcoreapp3.1\SimpleSingleton.csproj.CopyComplete
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Singleton\SimpleSingleton\obj\Debug\netcoreapp3.1\SimpleSingleton.dll
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Singleton\SimpleSingleton\obj\Debug\netcoreapp3.1\SimpleSingleton.pdb
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Singleton\SimpleSingleton\obj\Debug\netcoreapp3.1\SimpleSingleton.genruntimeconfig.cache
