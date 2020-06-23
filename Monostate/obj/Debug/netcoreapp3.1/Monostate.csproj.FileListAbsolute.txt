@@ -1,0 +1,13 @@
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Singleton\Monostate\bin\Debug\netcoreapp3.1\Monostate.exe
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Singleton\Monostate\bin\Debug\netcoreapp3.1\Monostate.deps.json
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Singleton\Monostate\bin\Debug\netcoreapp3.1\Monostate.runtimeconfig.json
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Singleton\Monostate\bin\Debug\netcoreapp3.1\Monostate.runtimeconfig.dev.json
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Singleton\Monostate\bin\Debug\netcoreapp3.1\Monostate.dll
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Singleton\Monostate\bin\Debug\netcoreapp3.1\Monostate.pdb
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Singleton\Monostate\obj\Debug\netcoreapp3.1\Monostate.csprojAssemblyReference.cache
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Singleton\Monostate\obj\Debug\netcoreapp3.1\Monostate.AssemblyInfoInputs.cache
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Singleton\Monostate\obj\Debug\netcoreapp3.1\Monostate.AssemblyInfo.cs
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Singleton\Monostate\obj\Debug\netcoreapp3.1\Monostate.csproj.CoreCompileInputs.cache
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Singleton\Monostate\obj\Debug\netcoreapp3.1\Monostate.dll
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Singleton\Monostate\obj\Debug\netcoreapp3.1\Monostate.pdb
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Singleton\Monostate\obj\Debug\netcoreapp3.1\Monostate.genruntimeconfig.cache
